@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FocusQuest</string>
+    <string name="title_activity_main">FocusQuest</string>
+    <string name="package_name">com.focusquest.app</string>
+    <string name="custom_url_scheme">com.focusquest.app</string>
+</resources>
